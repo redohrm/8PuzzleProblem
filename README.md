@@ -3,4 +3,5 @@ Uses heuristics to solve the 8PuzzleProblem
 
 This project solves the 8-puzzle problem
 The project uses heuristics to solve the problem in an efficient manner.
-Utilizes the a-star search algorithm.
+The project utilizes the a-star search algorithm.
+Please refer to report1.pdf for more details and analysis results.
